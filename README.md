@@ -3,5 +3,6 @@ In this project the idea is to implement 3 Sentiment Analysis models using LSTM,
 
 **Data source:
 
-https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews,
-https://nlp.stanford.edu/projects/glove/
+1. https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews,
+
+2. https://nlp.stanford.edu/projects/glove/
